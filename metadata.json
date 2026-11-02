@@ -1,0 +1,12 @@
+{
+  "name": "Rumie Theory & Harmony Lab",
+  "description": "Curso Interactivo de Armonía Popular Moderna (14 Capítulos) + Laboratorio Harmonic Pro",
+  "requestFramePermissions": [
+    "microphone",
+    "midi",
+    "midi-sysex"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
